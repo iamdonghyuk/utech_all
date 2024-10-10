@@ -6,3 +6,5 @@ Github Home for Evidence
 - URL : https://github.com/iamdonghyuk/utech_pcshop.git
 
 ## 2. C Homework
+- C Homework
+- URL : https://github.com/iamdonghyuk/utech_chomework.git
